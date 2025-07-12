@@ -31,7 +31,7 @@ I'm a cybersecurity enthusiast focused on building a career in threat analysis, 
 ## 🎯 Goals for 2025
 
 - 🧠 Earn Security+ and CySA+  
-- 🔒 Intern in a SOC or cybersecurity role  
+- 🔒 Gain Experience in a SOC or cybersecurity role  
 - 🎓 Pursue MSc in Cybersecurity (long-term)
 
 ---
